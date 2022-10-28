@@ -1,0 +1,110 @@
+.group-57 {
+  position: absolute;
+  width: 40.9722222222vw;
+  height: 8.3333333333vw;
+  left: 29.5138888889vw;
+  top: 0vw;
+}
+.group-57 .frame-95 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.3888888889vw;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.group-57 .frame-95 .frame-48 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.3888888889vw;
+  width: 40.9722222222vw;
+  height: 3.4027777778vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.group-57 .frame-95 .frame-48 input {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9027777778vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 19.7916666667vw;
+  height: 3.4027777778vw;
+  background: rgba(112, 228, 192, 0.2);
+  border-radius: 0.3472222222vw;
+  flex: none;
+  flex-grow: 1;
+  border: none;
+  outline: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #4CB3DF;
+}
+.group-57 .frame-95 .frame-48 input::-moz-placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #4CB3DF;
+}
+.group-57 .frame-95 .frame-48 input:-ms-input-placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #4CB3DF;
+}
+.group-57 .frame-95 .frame-48 input::placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #4CB3DF;
+}
+.group-57 .frame-95 .frame-48 input .frame-46 {
+  order: 0;
+}
+.group-57 .frame-95 .frame-48 input .frame-47 {
+  order: 1;
+}
+.group-57 .frame-95 button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0.9722222222vw 0vw;
+  gap: 0.6944444444vw;
+  width: 40.9722222222vw;
+  height: 3.5416666667vw;
+  background: #08785D;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.1805555556vw;
+  line-height: 1.5972222222vw;
+  text-align: center;
+  letter-spacing: 0.0277777778vw;
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

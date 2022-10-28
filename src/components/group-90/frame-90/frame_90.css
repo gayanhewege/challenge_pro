@@ -1,0 +1,9 @@
+.frame-90 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0vw;
+  gap: 4.1666666667vw;
+  width: 81.25vw;
+  height: 17.7777777778vw;
+}

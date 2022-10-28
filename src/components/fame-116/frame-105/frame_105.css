@@ -1,0 +1,195 @@
+.frame-105 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.3888888889vw;
+  width: 40.9722222222vw;
+  height: 22.7083333333vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.frame-105 input {
+  outline: none;
+  border: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+}
+.frame-105 input::-moz-placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+}
+.frame-105 input:-ms-input-placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+}
+.frame-105 input::placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+}
+.frame-105 .frame-99 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.3888888889vw;
+  width: 40.9722222222vw;
+  height: 3.4027777778vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.frame-105 .frame-99 .frame-98 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9027777778vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 19.7916666667vw;
+  height: 3.4027777778vw;
+  background: #F2FCF7;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.frame-105 .frame-99 .frame-97 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9027777778vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 19.7916666667vw;
+  height: 3.4027777778vw;
+  background: #F2FCF7;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.frame-105 .frame-104 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.3888888889vw;
+  width: 40.9722222222vw;
+  height: 3.4027777778vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.frame-105 .frame-104 .frame-100 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9027777778vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 19.7916666667vw;
+  height: 3.4027777778vw;
+  background: #F2FCF7;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.frame-105 .frame-104 .frame-101 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9027777778vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 19.7916666667vw;
+  height: 3.4027777778vw;
+  background: #F2FCF7;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.frame-105 .frame-103 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9027777778vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 40.9722222222vw;
+  height: 3.4027777778vw;
+  background: #F2FCF7;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+.frame-105 .frame-102 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 1.1111111111vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 40.9722222222vw;
+  height: 8.3333333333vw;
+  background: #F2FCF7;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+  outline: none;
+  border: none;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+  resize: none;
+}
+.frame-105 .frame-102::-moz-placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+}
+.frame-105 .frame-102:-ms-input-placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+}
+.frame-105 .frame-102::placeholder {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  letter-spacing: 0.0277777778vw;
+  color: #08785D;
+}

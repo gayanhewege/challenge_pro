@@ -1,0 +1,88 @@
+.common-frame-82 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0vw 0vw 0vw 3.3333333333vw;
+  gap: 3.3333333333vw;
+  width: 68.1944444444vw;
+  height: 20.9722222222vw;
+  background: #FFFFFF;
+  box-shadow: 0vw 0vw 1.3888888889vw 0.2777777778vw rgba(0, 0, 0, 0.08);
+  border-radius: 0.8333333333vw;
+  flex: none;
+  flex-grow: 0;
+  overflow: hidden;
+  cursor: pointer;
+}
+.common-frame-82 .frame-75 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2.7777777778vw 0vw;
+  gap: 1.1805555556vw;
+  width: 34.7222222222vw;
+  height: 20.9722222222vw;
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.common-frame-82 .frame-75 .frame-76 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 0.8333333333vw;
+  width: 20.5555555556vw;
+  height: 3.125vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.common-frame-82 .frame-75 .frame-76 .headline {
+  width: 21.25vw;
+  height: 2.2916666667vw;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.0833333333vw;
+  line-height: 2.2916666667vw;
+  letter-spacing: 0.0277777778vw;
+  color: #4CB3DF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.common-frame-82 .frame-75 .frame-76 .line-05 {
+  width: 13.8888888889vw;
+  height: 0px;
+  border: 0.1388888889vw solid #70E4C0;
+  background-color: #70E4C0;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.common-frame-82 .frame-75 .text-82 {
+  width: 34.7222222222vw;
+  height: 11.1111111111vw;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.9722222222vw;
+  line-height: 1.1111111111vw;
+  letter-spacing: 0.0277777778vw;
+  color: #5A5A5A;
+  white-space: pre-line;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.common-frame-82 .image {
+  width: 26.8055555556vw;
+  height: 20.8333333333vw;
+  border-radius: 0px;
+  background-size: 100% 100%;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}

@@ -1,0 +1,49 @@
+.arrow-left {
+  position: relative;
+  width: 1.1805555556vw;
+  height: 3.5402777778vw;
+  cursor: pointer;
+}
+.arrow-left .line-03 {
+  position: absolute;
+  height: 57%;
+  top: 0%;
+  right: 50%;
+  border: 0.1388888889vw solid #08785D;
+  transform: rotate(30deg);
+  background-color: #08785D;
+}
+.arrow-left .line-02 {
+  position: absolute;
+  bottom: 0%;
+  right: 50%;
+  height: 57%;
+  border: 0.1388888889vw solid #08785D;
+  transform: rotate(-30deg);
+  background-color: #08785D;
+}
+
+.arrow-right {
+  position: relative;
+  width: 1.1805555556vw;
+  height: 3.5402777778vw;
+  cursor: pointer;
+}
+.arrow-right .line-03 {
+  position: absolute;
+  height: 57%;
+  top: 0%;
+  left: 50%;
+  border: 0.1388888889vw solid #08785D;
+  background-color: #08785D;
+  transform: rotate(150deg);
+}
+.arrow-right .line-02 {
+  position: absolute;
+  height: 57%;
+  bottom: 0%;
+  left: 50%;
+  border: 0.1388888889vw solid #08785D;
+  background-color: #08785D;
+  transform: rotate(-150deg);
+}

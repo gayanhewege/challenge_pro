@@ -1,0 +1,118 @@
+.group-92 {
+  position: absolute;
+  width: 84.2013888889vw;
+  height: 39.2361111111vw;
+  left: 7.9861111111vw;
+  top: 105.2777777778vw;
+  cursor: pointer;
+}
+.group-92 .group-91 {
+  position: absolute;
+  width: 78.2986111111vw;
+  height: 27.5694444444vw;
+  right: 0;
+  top: 5.9027777778vw;
+  background-color: white;
+  border-radius: 27.5694444444vw 0.3472222222vw 0.3472222222vw 27.5694444444vw;
+  box-shadow: 0vw 0vw 1.0416666667vw 0.6944444444vw rgba(0, 0, 0, 0.05);
+}
+.group-92 .group-91 .doctor-image {
+  position: absolute;
+  height: 100%;
+  aspect-ratio: 1;
+  left: 0;
+  background-image: url("../../assets/images/image_04.png");
+  background-size: 100% 100%;
+  z-index: 1;
+  border-radius: 50%;
+}
+.group-92 .group-91 .frame-73 {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0vw;
+  gap: 1.3888888889vw;
+  width: 42.2916666667vw;
+  height: 18.6805555556vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  right: 4.1666666667vw;
+  top: 4.4444444444vw;
+}
+.group-92 .group-91 .frame-73 .frame-74 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0vw;
+  gap: 0.8333333333vw;
+  width: 35.2083333333vw;
+  height: 3.125vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.group-92 .group-91 .frame-73 .frame-74 .text {
+  width: 35.2083333333vw;
+  height: 2.2916666667vw;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.875vw;
+  line-height: 2.2916666667vw;
+  letter-spacing: 0.0277777778vw;
+  color: #4CB3DF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.group-92 .group-91 .frame-73 .frame-74 .line-05 {
+  width: 13.2256944444vw;
+  height: 0vw;
+  border: 0.3472222222vw solid #70E4C0;
+  background-color: #70E4C0;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.group-92 .group-91 .frame-91 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0vw;
+  gap: 1.3888888889vw;
+  width: 42.2916666667vw;
+  height: 14.1666666667vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.group-92 .group-91 .frame-91 .text-01 {
+  width: 42.2916666667vw;
+  height: 7.9861111111vw;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.25vw;
+  line-height: 1.5972222222vw;
+  letter-spacing: 0.0277777778vw;
+  color: #000000;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.group-92 .group-91 .frame-91 .text-02 {
+  width: 42.2916666667vw;
+  height: 4.7916666667vw;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.25vw;
+  line-height: 1.5972222222vw;
+  letter-spacing: 0.0277777778vw;
+  color: #5A5A5A;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}

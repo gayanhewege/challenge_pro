@@ -1,0 +1,123 @@
+.hero-text-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0vw;
+  gap: 2.7777777778vw;
+  position: absolute;
+  width: 33.9583333333vw;
+  height: 20.0694444444vw;
+  left: 5.5555555556vw;
+  top: 20.7638888889vw;
+}
+.hero-text-block .hero-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0vw;
+  gap: 1.3888888889vw;
+  width: 33.9583333333vw;
+  height: 13.75vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.hero-text-block .hero-text .world-class {
+  width: 34.375vw;
+  height: 1.9444444444vw;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.6666666667vw;
+  line-height: 1.9444444444vw;
+  letter-spacing: 0.0277777778vw;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.hero-text-block .hero-text .live-pain {
+  width: 33.9583333333vw;
+  height: 10.4166666667vw;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 3.0555555556vw;
+  line-height: 3.4722222222vw;
+  letter-spacing: 0.0277777778vw;
+  color: #FFFFFF;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.hero-text-block .hero-text .cta-btns {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0vw;
+  gap: 1.0416666667vw;
+  width: 30.5729166667vw;
+  height: 3.5416666667vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  cursor: pointer;
+}
+.hero-text-block .hero-text .cta-btns .book-appoinment {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9722222222vw 1.6666666667vw;
+  gap: 0.6944444444vw;
+  width: 13.5416666667vw;
+  height: 3.5416666667vw;
+  background: #009F7B;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.hero-text-block .hero-text .cta-btns .book-appoinment .text {
+  width: 10.2083333333vw;
+  height: 1.5972222222vw;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  text-align: center;
+  letter-spacing: 0.0277777778vw;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.hero-text-block .hero-text .cta-btns .call {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0.9722222222vw 1.6666666667vw;
+  gap: 0.6944444444vw;
+  width: 15.9895833333vw;
+  height: 3.5416666667vw;
+  background: #009F7B;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.hero-text-block .hero-text .cta-btns .call .text {
+  width: 11.4583333333vw;
+  height: 1.5972222222vw;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  text-align: center;
+  letter-spacing: 0.0277777778vw;
+  color: #FFFFFF;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}

@@ -1,0 +1,61 @@
+.frame-116 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.6666666667vw;
+  position: absolute;
+  width: 77.7777777778vw;
+  height: 28.4722222222vw;
+  left: 11.1111111111vw;
+  top: 301.8055555556vw;
+}
+.frame-116 .group-40 {
+  width: 35.1388888889vw;
+  height: 28.4722222222vw;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  cursor: pointer;
+}
+.frame-116 .frame-106 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.3888888889vw;
+  width: 40.9722222222vw;
+  height: 27.5vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.frame-116 .frame-106 .button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0.9027777778vw 1.3888888889vw;
+  gap: 0.6944444444vw;
+  width: 13.125vw;
+  height: 3.4027777778vw;
+  background: #08785D;
+  border-radius: 0.3472222222vw;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.frame-116 .frame-106 .button .text {
+  width: 10.3472222222vw;
+  height: 1.5972222222vw;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.0416666667vw;
+  line-height: 1.5277777778vw;
+  text-align: center;
+  letter-spacing: 0.0277777778vw;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

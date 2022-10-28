@@ -1,0 +1,10 @@
+.hero-image {
+  position: absolute;
+  width: 100vw;
+  aspect-ratio: 1440/840;
+  left: 0px;
+  top: 0px;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5) 12.67%, rgba(0, 0, 0, 0.5) 33.38%, rgba(0, 0, 0, 0) 49.13%), url("../../assets/images/image_07.png");
+  background-position: center;
+  background-size: 100% 100%;
+}
