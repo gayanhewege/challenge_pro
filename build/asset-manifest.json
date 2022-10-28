@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/challenge_pro/static/css/main.1157e115.css",
+    "main.js": "/challenge_pro/static/js/main.352b283c.js",
+    "static/media/image_07.png": "/challenge_pro/static/media/image_07.00e210485607c4161a17.png",
+    "static/media/image_08.png": "/challenge_pro/static/media/image_08.3aab14dba848499ba69a.png",
+    "static/media/image_03.png": "/challenge_pro/static/media/image_03.63a5203d7e65c797b7fc.png",
+    "static/media/image_04.png": "/challenge_pro/static/media/image_04.86b7bfc2df063b885d78.png",
+    "static/media/image_02.png": "/challenge_pro/static/media/image_02.d16b687ee663d5f6ef7b.png",
+    "static/media/image_06.png": "/challenge_pro/static/media/image_06.10d68ffc5460f9461a32.png",
+    "static/media/image_01.png": "/challenge_pro/static/media/image_01.65e37e2eb8e3e48c9b2f.png",
+    "static/media/image_05.png": "/challenge_pro/static/media/image_05.b7edb29d3d0d0cd450e1.png",
+    "index.html": "/challenge_pro/index.html",
+    "main.1157e115.css.map": "/challenge_pro/static/css/main.1157e115.css.map",
+    "main.352b283c.js.map": "/challenge_pro/static/js/main.352b283c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1157e115.css",
+    "static/js/main.352b283c.js"
+  ]
+}
